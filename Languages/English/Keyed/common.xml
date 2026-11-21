@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+    <HardcoreFreezers.LoadingLabel>Hardcore Freezers Loading</HardcoreFreezers.LoadingLabel>
+    <HardcoreFreezers.SettingsTitle>Hardcore Freezers</HardcoreFreezers.SettingsTitle>
+    <HardcoreFreezers.Cutoff>Deep-freeze cutoff (°C)</HardcoreFreezers.Cutoff>
+    <HardcoreFreezers.Temperature>Temperature (°C)</HardcoreFreezers.Temperature>
+    <HardcoreFreezers.RotRate>Rot rate (% of normal)</HardcoreFreezers.RotRate>
+    <HardcoreFreezers.WarmAnchor>Fixed warm anchor at +{0} °C with {1} rot rate</HardcoreFreezers.WarmAnchor>
+    <HardcoreFreezers.Add>Add point</HardcoreFreezers.Add>
+    <HardcoreFreezers.Remove>Remove</HardcoreFreezers.Remove>
+    <HardcoreFreezers.Apply>Apply</HardcoreFreezers.Apply>
+    <HardcoreFreezers.Reset>Reset to defaults</HardcoreFreezers.Reset>
+    <HardcoreFreezers.Preview>Rot rate (%) by temperature (°C)</HardcoreFreezers.Preview>
+    <HardcoreFreezers.PreviewSample>Rot rate at {0} °C is {1} of normal.</HardcoreFreezers.PreviewSample>
+    <HardcoreFreezers.PreviewTinyRate>less than {0}</HardcoreFreezers.PreviewTinyRate>
+    <HardcoreFreezers.ErrorCutoff>Enter a whole-degree cutoff between {0} °C and {1} °C.</HardcoreFreezers.ErrorCutoff>
+    <HardcoreFreezers.ErrorTemperature>Enter a whole-degree temperature in row {0}.</HardcoreFreezers.ErrorTemperature>
+    <HardcoreFreezers.ErrorRate>Enter a rot rate above 0% and up to 50% for the point at {0} °C.</HardcoreFreezers.ErrorRate>
+    <HardcoreFreezers.ErrorOutsideAnchors>Move or remove the point at {0} °C. Points must be warmer than {1} °C and colder than +{2} °C.</HardcoreFreezers.ErrorOutsideAnchors>
+    <HardcoreFreezers.ErrorDuplicate>Only one point can use {0} °C.</HardcoreFreezers.ErrorDuplicate>
+    <HardcoreFreezers.ErrorDecreasing>The rot rate at {0} °C must be at least as high as the rate at the next colder point.</HardcoreFreezers.ErrorDecreasing>
+    <HardcoreFreezers.ErrorInvalidCurve>Enter a valid rot curve before applying.</HardcoreFreezers.ErrorInvalidCurve>
+    <HardcoreFreezers.FrozenNeverSpoils>Frozen - never spoils</HardcoreFreezers.FrozenNeverSpoils>
+    <HardcoreFreezers.FrozenSlowed>Frozen - spoilage slowed by {0}, spoils in {1}</HardcoreFreezers.FrozenSlowed>
+    <HardcoreFreezers.FrozenAlmostStopped>Frozen - spoilage slowed by more than {0}, spoils in {1}</HardcoreFreezers.FrozenAlmostStopped>
+    <HardcoreFreezers.MinimumDuration>at least {0}</HardcoreFreezers.MinimumDuration>
+    <HardcoreFreezers.SpoilageTab>Spoilage</HardcoreFreezers.SpoilageTab>
+    <HardcoreFreezers.FreezeDamageTab>Freeze damage</HardcoreFreezers.FreezeDamageTab>
+    <HardcoreFreezers.EnableFreezeDamage>Enable freeze damage for perishables</HardcoreFreezers.EnableFreezeDamage>
+    <HardcoreFreezers.FreezeDamageRestart>Restart RimWorld after applying changes to this checkbox.</HardcoreFreezers.FreezeDamageRestart>
+    <HardcoreFreezers.FreezeDamageRate>Damage (HP per day)</HardcoreFreezers.FreezeDamageRate>
+    <HardcoreFreezers.FreezeDamageWarmAnchor>Fixed warm anchor at 0 °C with 0 HP damage per day</HardcoreFreezers.FreezeDamageWarmAnchor>
+    <HardcoreFreezers.FreezeDamagePreview>Freeze damage (HP per day) by temperature (°C)</HardcoreFreezers.FreezeDamagePreview>
+    <HardcoreFreezers.FreezeDamageSample>At {0} °C, perishables take {1} HP of freeze damage per day.</HardcoreFreezers.FreezeDamageSample>
+    <HardcoreFreezers.ErrorFreezeDamageTemperature>Enter a whole-degree temperature between {1} °C and {2} °C in row {0}.</HardcoreFreezers.ErrorFreezeDamageTemperature>
+    <HardcoreFreezers.ErrorFreezeDamageRate>Enter a damage rate from 0 to {1} HP per day for the point at {0} °C.</HardcoreFreezers.ErrorFreezeDamageRate>
+    <HardcoreFreezers.ErrorFreezeDamageIncreasing>The damage rate at {0} °C must be at most the rate at the next colder point.</HardcoreFreezers.ErrorFreezeDamageIncreasing>
+    <HardcoreFreezers.FreezeDamageInspect>Freeze damage removes {0} HP per day.</HardcoreFreezers.FreezeDamageInspect>
+</LanguageData>

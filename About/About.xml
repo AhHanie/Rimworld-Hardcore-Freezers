@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+    <name>Hardcore Freezers</name>
+    <author>Sk</author>
+    <packageId>sk.hardcorefreezers</packageId>
+    <supportedVersions>
+        <li>1.7</li>
+    </supportedVersions>
+    <description>Frozen perishables spoil gradually, with colder storage slowing spoilage until a configurable deep-freeze cutoff stops it. Both temperature curves apply to food, corpses, herbal medicine, and other perishables that use Rimworld's rot component. The optional freeze-damage curve makes perishables lose hit points in extreme cold. Customize both curves in the mod settings.</description>
+    <modVersion>1.0.0</modVersion>
+    <url>https://steamcommunity.com/sharedfiles/filedetails/?id=3843374692</url>
+    <modDependencies>
+        <li>
+            <packageId>brrainz.harmony</packageId>
+            <displayName>Harmony</displayName>
+            <steamWorkshopUrl>steam://url/CommunityFilePage/2009463077</steamWorkshopUrl>
+            <downloadUrl>https://github.com/pardeike/HarmonyRimWorld/releases/latest</downloadUrl>
+        </li>
+    </modDependencies>
+</ModMetaData>
